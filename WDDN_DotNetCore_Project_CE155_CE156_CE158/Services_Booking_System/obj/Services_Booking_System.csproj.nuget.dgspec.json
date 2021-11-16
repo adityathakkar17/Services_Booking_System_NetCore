@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DDU-SEM5\\WDDN\\Service_booking_system\\Services_Booking_System\\Services_Booking_System\\Services_Booking_System.csproj": {}
+    "D:\\DDU-SEM5\\WDDN\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\Services_Booking_System\\Services_Booking_System.csproj": {}
   },
   "projects": {
-    "D:\\DDU-SEM5\\WDDN\\Service_booking_system\\Services_Booking_System\\Services_Booking_System\\Services_Booking_System.csproj": {
+    "D:\\DDU-SEM5\\WDDN\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\Services_Booking_System\\Services_Booking_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DDU-SEM5\\WDDN\\Service_booking_system\\Services_Booking_System\\Services_Booking_System\\Services_Booking_System.csproj",
+        "projectUniqueName": "D:\\DDU-SEM5\\WDDN\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\Services_Booking_System\\Services_Booking_System.csproj",
         "projectName": "Services_Booking_System",
-        "projectPath": "D:\\DDU-SEM5\\WDDN\\Service_booking_system\\Services_Booking_System\\Services_Booking_System\\Services_Booking_System.csproj",
+        "projectPath": "D:\\DDU-SEM5\\WDDN\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\Services_Booking_System\\Services_Booking_System.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\DDU-SEM5\\WDDN\\Service_booking_system\\Services_Booking_System\\Services_Booking_System\\obj\\",
+        "outputPath": "D:\\DDU-SEM5\\WDDN\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\WDDN_DotNetCore_Project_CE155_CE156_CE158\\Services_Booking_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

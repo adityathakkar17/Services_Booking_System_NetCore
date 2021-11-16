@@ -24,7 +24,7 @@
     {
         var PhotoPath = "/ServiceImages/" + item.ServiceImage;
         @*<button onclick="location.href='@Url.Action("List", "SubServices",new {ServiceId=item.Id })'">kk</button>*@
-        <div class="card m-5 " style="min-width:18rem;max-width:30.5%;" onclick="location.href='@Url.Action("List", "SubServices",new {ServiceId=item.Id })'">
+        <div class="card m-3" style="min-width:18rem;max-width:30.5%;" onclick="location.href='@Url.Action("List", "SubServices",new {ServiceId=item.Id })'">
             <div class="card-header text-center ">
                 <h3>@item.ServiceName</h3>
             </div>
